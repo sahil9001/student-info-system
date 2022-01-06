@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author sahil
+ * @author testauthor
  */
 public class addAdmin extends javax.swing.JFrame {
 

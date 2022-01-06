@@ -13,7 +13,7 @@ import net.proteanit.sql.DbUtils;
 
 /**
  *
- * @author sahil
+ * @author testauthor
  */
 public class showAdmin extends javax.swing.JFrame {
 

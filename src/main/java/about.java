@@ -6,7 +6,7 @@
 
 /**
  *
- * @author sahil
+ * @author testauthor
  */
 public class about extends javax.swing.JFrame {
 
@@ -36,7 +36,7 @@ public class about extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jLabel1.setText("Author: Sahil Silare (19115071)");
+        jLabel1.setText("Author: Test Author ");
 
         jMenu1.setText("File");
 

@@ -12,7 +12,7 @@ import net.proteanit.sql.DbUtils;
 
 /**
  *
- * @author sahil
+ * @author testauthor
  */
 public class showStudent extends javax.swing.JFrame {
 

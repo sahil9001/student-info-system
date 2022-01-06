@@ -11,13 +11,13 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author sahil
+ * @author testauthor
  */
 public class databaseConnection {
     final static String JDBC_DRIVER = "com.mysql.jdbc.Driver";
     final static String DB_URL = "jdbc:mysql://localhost:3306/student";
     
-    final static String USER = "sahil";
+    final static String USER = "testauthor";
     final static String PASS = "password";
     
     //

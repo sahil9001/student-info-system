@@ -88,7 +88,7 @@
   <SubComponents>
     <Component class="javax.swing.JLabel" name="jLabel1">
       <Properties>
-        <Property name="text" type="java.lang.String" value="Author: Sahil Silare (19115071)"/>
+        <Property name="text" type="java.lang.String" value="Author: Test Author"/>
       </Properties>
     </Component>
   </SubComponents>
